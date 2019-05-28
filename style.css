@@ -1,0 +1,65 @@
+hr {
+    color: lightgrey;
+}
+
+#container {
+    display: block;
+    width: 800px;
+    margin-left: 200px;
+    border: 1px solid #DDE0E3;
+    padding: 50px;
+}
+
+mark {
+    background-color: #EFEAEB;
+}
+
+#details table {
+    border-collapse: collapse;
+}
+
+#details table, th, td {
+    border: 1px solid #DDE0E3;
+    padding: 10px;
+    width: 350px;
+}
+
+}
+#details #tableHeading {
+    text-align: center;
+    width: 50%;
+}
+
+#details #challengeDetail {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace; 
+    font-size: 12px;
+    
+    
+}
+
+#details #trOdd {
+    background-color: #E0E0E0;
+}
+
+#note {
+    font-style: italic;
+}
+
+a {
+   text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+}
+#goals ul {
+    list-style: url(image/checkbox_unchecked.png);
+}
+
+#lighthouse {
+    
+    width: 270px;
+    height: 156px;
+    margin-left: 265px;
+}
