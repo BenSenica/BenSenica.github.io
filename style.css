@@ -1,17 +1,21 @@
-hr {
-    color: lightgrey;
-}
-
 #container {
     display: block;
     width: 800px;
     margin-left: 200px;
     border: 1px solid #DDE0E3;
     padding: 50px;
+    font-size: 18px;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+hr {
+    color: lightgrey;
 }
 
 mark {
     background-color: #EFEAEB;
+    font-family: "Courier New", Courier, monospace; 
+    font-size: 12px;
 }
 
 #details table {
