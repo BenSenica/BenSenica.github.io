@@ -29,20 +29,17 @@ mark {
 }
 
 }
-#details #tableHeading {
+#details .tableHeading {
     text-align: center;
     width: 50%;
 }
 
-#details #challengeDetail {
+#details .challengeDetail {
     text-align: center;
-    font-family: "Courier New", Courier, monospace; 
-    font-size: 13px;
-    
     
 }
 
-#details #trOdd {
+#details .trOdd {
     background-color: #E0E0E0;
 }
 
